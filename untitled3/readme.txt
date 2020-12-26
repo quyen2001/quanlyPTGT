@@ -3,8 +3,8 @@ Hướng dẫn sử dụng chương trình quản lý phương tiện giao thôn
 B1: Chọn class thongtin, click chuột phải và chọn run 'thongtin.main()'
 
 B2:
-    -  Để tìm kiếm thông tin về phương tiện chọn "Tìm kiếm", 1 bảng điền thông tin về ID của phương tiện sẽ hiện lên.
-Sau khi điền mọi thông tin về phương tiện đó sẽ hiện lên.
+    -  Để tìm kiếm thông tin về phương tiện chọn "Tìm kiếm", 1 bảng điền thông tin về Hãng SX của phương tiện sẽ hiện lên.
+Sau khi điền, mọi thông tin về phương tiện đó sẽ hiện lên.
     
     -  Để thêm thông tin về một phương tiện mới, điền thông tin của nó vào những mục tương ứng rồi chọn "Thêm".
 
